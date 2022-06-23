@@ -12,16 +12,19 @@
   color: var(--white);
   font-weight: bold;
 
-  svg {
+  svg,
+  img {
     width: 20px;
     height: 20px;
+    border-radius: 50%;
   }
 
   svg.closeIcon {
     margin-left: 1rem;
   }
 
-  svg:first-child {
+  svg:first-child,
+  img {
     margin-right: 1rem;
   }
 

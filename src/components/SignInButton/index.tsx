@@ -13,7 +13,12 @@ export function SignInButton() {
       className={styles.signInButton}
       onClick={() => signOut()}
     >
-      <FaGithub color="#04D361" />
+      {session.user.image ? (
+        // eslint-disable-next-line
+        <img src={session.user.image} alt="User image" />
+      ) : (
+        <FaGithub color="#04D361" />
+      )}
       {session.user.name}
       <FiX color="#737380" className={styles.closeIcon} />
     </ button>
