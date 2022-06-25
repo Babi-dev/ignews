@@ -1,0 +1,21 @@
+{
+  "id": "dbf16b72-bcd3-40a3-8a4b-301067013270",
+  "uid": "maiores-consequatur-facilis",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Consectetur incididunt pariatur eu laboris fugiat laborum voluptate ad.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Et ullamco deserunt anim dolore eu nisi exercitation. Irure reprehenderit occaecat cupidatat adipisicing amet reprehenderit anim anim ullamco et consequat sunt magna est eu. Commodo quis veniam reprehenderit commodo sit.",
+        "spans": []
+      }
+    ]
+  }
+}
